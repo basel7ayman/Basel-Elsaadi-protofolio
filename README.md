@@ -2,7 +2,7 @@
 
 A dark‑mode **frontend developer portfolio** for showcasing my projects, education, and experience.
 
-Live demo https://basel7ayman.github.io/Basel-Elsaadi-protofolio/.
+Live demo https://basel7ayman.github.io/Basel-Elsaadi-protofolio/
 
 ---
 
