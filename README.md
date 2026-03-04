@@ -2,7 +2,7 @@
 
 A dark‑mode **frontend developer portfolio** for showcasing my projects, education, and experience.
 
-Live demo (after deploying, e.g. GitHub Pages or Netlify) will point here.
+Live demo https://basel7ayman.github.io/Basel-Elsaadi-protofolio/.
 
 ---
 
@@ -41,37 +41,6 @@ Each project card links to its **live demo** (when available) and **GitHub sourc
   - Responsive layout
   - Reusable components (cards, tags, chips, navbar)
 - **Vanilla JavaScript** (very small) – Used only to update the current year in the footer.
-
----
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/<your-portfolio-repo>.git
-cd <your-portfolio-repo>
-```
-
-Open `index.html` directly in your browser:
-
-- Double‑click `index.html`, or
-- Right‑click → **Open with** → choose your browser
-
-No build step or dev server is required.
-
----
-
-## 🌐 Deploying (GitHub Pages)
-
-1. Push this project to a GitHub repository.
-2. In the repo, go to **Settings → Pages**.
-3. Under “Branch”, select `main` (or `master`) and the root folder, then **Save**.
-4. After a minute or two, GitHub Pages will give you a URL like:
-
-`https://<your-username>.github.io/<your-portfolio-repo>/`
-
-Update that link in your social profiles if you want this to be your main portfolio.
 
 ---
 
