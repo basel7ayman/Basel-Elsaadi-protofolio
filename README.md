@@ -21,12 +21,17 @@ This is a single‑page portfolio website built with **vanilla HTML & CSS** and 
 
 - **About** – Name, role (Frontend Developer), location, and a short summary.
 - **Education** – B.Eng. in Computer Engineering at Benha University (Shoubra campus), key CS courses, and IEEE leadership role.
-- **Experience** – Call Center Agent at Concentrix and Frontend Intern at NWRC, with impact‑focused bullets.
+- **Experience**
+  - **Programming Instructor / DEMI Tutor (iSchool)** – Deliver Code.org sessions for 4th grade students, mentor hands-on coding, and strengthen student problem-solving.
+  - **Call Center Agent (Concentrix)** – Customer support for Xfinity Mobile billing with strong communication and conflict resolution.
+  - **Frontend Intern (NWRC)** – Built responsive UI features, integrated APIs, and improved signup and page performance metrics.
 - **Projects & Training**
   - **CourseHub (Graduation Project)** – Gamified learning platform (React, Node.js, MongoDB).
   - **Quiz App** – React, Tailwind, Flowbite, Vite quiz application with routing and scoring.
   - **Smart Login System** – Login/signup UI with validation and localStorage.
-  - **Weather App, CRUD Cart, Bookmark Manager, Random Quote Generator** – Route Academy / JavaScript practice projects.
+  - **Bookmark Manager** – JavaScript CRUD website for saving and managing bookmarks (with live demo).
+  - **Random Quote Generator** – Dynamic quote app using JavaScript DOM manipulation.
+  - **Weather App, CRUD Cart** – Route Academy frontend practice projects.
 - **Additional Activities** – ECPC programming competition results and problem‑solving background.
 
 Each project card links to its **live demo** (when available) and **GitHub source**.
