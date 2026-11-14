@@ -355,6 +355,10 @@ main {
   margin-top: 26px;
 }
 
+#education > .card + .card {
+  margin-top: 2px;
+}
+
 .section-header {
   display: flex;
   align-items: baseline;
@@ -570,4 +574,3 @@ footer {
   gap: 10px;
   justify-content: space-between;
 }
-
