@@ -20,7 +20,7 @@ This is a single‑page portfolio website built with **vanilla HTML & CSS** and 
 ## 🧩 Sections
 
 - **About** – Name, role (Frontend Developer), location, and a short summary.
-- **Education** – B.Eng. in Computer Engineering at Benha University (Shoubra campus), key CS courses, and IEEE leadership role.
+- **Education** – B.Eng. in Computer Engineering at Benha University (Shoubra campus), plus ongoing ITI Open Source Software Development training (Oct 2026–Jun 2027) covering foundational systems and programming topics with a planned full-stack, AI, and professional-skills curriculum.
 - **Experience**
   - **Programming Instructor / DEMI Tutor (iSchool)** – Deliver Code.org sessions for 4th grade students, mentor hands-on coding, and strengthen student problem-solving.
   - **Call Center Agent (Concentrix)** – Customer support for Xfinity Mobile billing with strong communication and conflict resolution.
@@ -54,4 +54,3 @@ Each project card links to its **live demo** (when available) and **GitHub sourc
 - **Email**: `basel.elsa3di@gmail.com`
 - **LinkedIn**: https://www.linkedin.com/in/basel-elsaadi-110069209
 - **GitHub**: https://github.com/basel7ayman
-
